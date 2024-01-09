@@ -25,7 +25,8 @@
 # Icon must end with two \r
 Icon
 
-
+# Format Documents
+.png
 # Thumbnails
 ._*
 
